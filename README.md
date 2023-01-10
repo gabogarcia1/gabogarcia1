@@ -13,7 +13,7 @@ Tecnologies:
 - Express JS
 - Mongo DB
 - C#
-- Automation Testing: Cypress & Nunit.
+- Automation Testing: Playwright with Typescript, Cypress & Nunit.
 
 <!---
 gabogarcia1/gabogarcia1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
