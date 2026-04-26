@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Gabriel Garcia
 
-- QA Engineer
-- Biomedical Engineering student
-- Electronic Engineering student
+- Software Engineer
+- Biomedical Engineer
 - Full Stack Development MERN Teacher Assistant at Rolling Code School 
 
 Tecnologies: 
